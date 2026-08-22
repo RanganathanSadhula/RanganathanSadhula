@@ -86,6 +86,6 @@ Designed a 3D interactive developer portfolio with React Three Fiber and Next.js
 
 <div align="center">
 
-📎 [Portfolio](https://ranganathan.netlify.app/) · 💼 [LinkedIn](#)
+📎 [Portfolio](https://ranganathan-3d-portfolio.netlify.app/) · 💼 [LinkedIn](#)
 
 </div>
