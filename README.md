@@ -79,7 +79,7 @@ Designed a 3D interactive developer portfolio with React Three Fiber and Next.js
 
 ## 📊 GitHub Stats
 
-![Ranganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanganathanSadhula&show_icons=true&theme=radical)
+![Ranganathan's GitHub stats](https://ranganathan-3d-portfolio.netlify.app/)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanganathanSadhula&layout=compact&theme=radical)
 
 ---
