@@ -1,71 +1,86 @@
 <div align="center">
 
 # Hi, I'm Ranganathan Sadhula 👋
-### Full-Stack Developer · AI/ML Engineer
+### AI/ML Engineer · Full-Stack Developer
 
-Building AI-powered platforms end-to-end — from Flask/FastAPI microservices and React frontends to LLM-driven analysis pipelines and 3D interactive experiences.
+I build production AI systems — LLM pipelines, RAG architectures, and agentic workflows — backed by full-stack engineering across Python, Flask/FastAPI, and React.
 
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🧠 AI/ML Expertise
 
-### 🧾 Financial Document Analyzer
-AI-powered financial document analyzer built with debugging and prompt-optimization as first-class concerns — all bugs fixed, prompts optimized, production ready.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-412991?style=flat) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-black?style=flat)
-
-<br>
-
-### 🚑 Traffic Clearance System for Ambulances in High-Density Areas
-🏆 **2nd Prize, STEPCON 2025 (National Level)**
-A traffic-clearance system designed to give ambulances priority routing through congested traffic.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/-AI%2FML-orange?style=flat)
-
-<br>
-
-### 📈 StockGenius AI
-Stock analysis platform covering ~2,750+ NSE/BSE tickers. Built a technical-score API (8-parameter composite: EMA, RSI, MACD, VWAP, Relative Strength, 52-week position), a market data microservice with 7+ REST endpoints, and a news-retrieval service using Azure AI Search with `text-embedding-3-large`. Deployed on Azure VM behind nginx.
-
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat)
-
-<br>
-
-### 🔍 DataGlow / Nexlayer
-Live data-quality monitoring platform integrating Databricks, PostgreSQL, Slack OAuth, and Jira. Built a multi-source connector registry, fixed real-time polling and scoring pipelines, and shipped Slack OAuth end-to-end.
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-
-<br>
-
-### 🌐 3D Interactive Developer Portfolio
-A 3D portfolio experience with five landmark districts representing different areas of work, built with React Three Fiber and TypeScript, with a guided onboarding tour.
-
-![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-black?style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-000000?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vector Search](https://img.shields.io/badge/-Vector%20Search-4B0082?style=for-the-badge)
 
 ---
 
-## 🎯 Direction
+## 🚀 What I Build
 
-- Full-stack systems that connect real data pipelines to usable interfaces
-- AI/LLM-powered tools for analysis and decision support (finance, documents, traffic)
-- Reliable deployment — VM-hosted services with proper reverse proxying and process management
+### 🤖 LLM-Powered Analysis Pipelines
+Designed and debugged production LLM pipelines for document understanding and financial data analysis — prompt engineering, structured extraction, and multi-stage reasoning chains, optimized for accuracy and cost.
+
+<br>
+
+### 🔎 RAG & Semantic Search Systems
+Built retrieval-augmented generation pipelines using vector embeddings (`text-embedding-3-large`) and Azure AI Search for grounded, context-aware LLM responses over large unstructured datasets.
+
+<br>
+
+### ⚙️ Real-Time Data & Monitoring Platforms
+Engineered live data-quality monitoring systems integrating multiple data sources (warehouses, databases, third-party APIs) with automated scoring, alerting, and OAuth-based integrations.
+
+<br>
+
+### 📊 Quantitative & Technical Scoring Engines
+Built composite scoring APIs combining multiple technical indicators (EMA, RSI, MACD, VWAP, Relative Strength) into production REST endpoints, processing thousands of data points at scale.
+
+<br>
+
+### 🏆 AI for Real-World Impact
+Built an AI-driven traffic-clearance system to give emergency vehicles priority routing through congested traffic — **2nd Prize, STEPCON 2025 (National Level)**.
+
+<br>
+
+### 🌐 Interactive 3D Experiences
+Designed a 3D interactive developer portfolio with React Three Fiber and Next.js — spatial navigation, guided onboarding, and custom animation systems.
 
 ---
 
-## 🛠️ Operating Range
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![nginx](https://img.shields.io/badge/-nginx-009639?style=flat&logo=nginx&logoColor=white)
+**Languages & AI/ML**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Backend**
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**Infra & Deployment**
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![nginx](https://img.shields.io/badge/-nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Ranganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanganathanSadhula&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanganathanSadhula&layout=compact&theme=radical)
 
 ---
 
