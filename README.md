@@ -23,7 +23,7 @@ I am a full-stack developer and AI/ML engineer with hands-on experience building
 ![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-8A2BE2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-000000?style=for-the-badge)
+![AI/ML ](https://img.shields.io/badge/-Prompt%20Engineering-000000?style=for-the-badge)
 ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/-Vector%20Search-4B0082?style=for-the-badge)
 
